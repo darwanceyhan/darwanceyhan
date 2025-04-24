@@ -1,3 +1,5 @@
+## 📊 Stats & Badges
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwanceyhan&theme=dark&show_icons=true)
 
 ![enter image description here](https://www.codewars.com/users/darwanceyhan/badges/large)
@@ -34,13 +36,8 @@ I develop server-side applications using **Express.js** and **NestJS**, and I wo
    <img src="https://user-images.githubusercontent.com/62142146/208088732-e168fd64-3e48-4f48-b14d-9d91fa7d99f6.svg" height="60" alt="TypeORM" />
 </p>
 
----
-
-## 📊 Stats & Badges
 
 
 
-
----
 
 Thanks for visiting my profile! Feel free to connect with me. 🚀
